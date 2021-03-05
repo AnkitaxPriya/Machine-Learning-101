@@ -4,6 +4,17 @@ Machine learning is a subfield of computer science that is concerned with buildi
 
 Basically, machine learning **explores algorithms to build models** for data, and eventually these models are used for **prediction, decision making** or **solving tasks.** Ex: Filtering spam emails
 
+## Types of Learning 
+
+- Supervised: The dataset is the collection of labeled examples. It has 2 ctaegories of algorithms:
+  - Classification
+  - Regression
+- Semi-supervised: The dataset contains both labeled and unlabeled examples. 
+- Unsupervised: The dataset is a collection of unlabeled examples. It is further classified as:
+  - Clustering 
+  - Association
+- Reinforcement: Feedback-based learning method 
+
 # Why Machine Learning?
 
 - Recent progress in algorithms and theory 
