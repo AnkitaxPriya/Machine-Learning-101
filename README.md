@@ -1,3 +1,5 @@
 # Machine-Learning-101
 
-The readme and other details will be updated soon
+**Ankita Priya**
+
+*Pre-final year CS undergrad @[B.I.T Mesra](https://www.bitmesra.ac.in/)*
