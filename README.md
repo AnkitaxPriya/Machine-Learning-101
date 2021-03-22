@@ -6,7 +6,7 @@
 
 ## Purpose of this repository 
 
-This repos is a documentation of my Machine Learning journey. Currently, my learnings are based on the course offered by my Uni [IT340 Machine Learning](https://www.notion.so/ankitapriya/Course-Syllabus-208a3ef25acc486184ad6deff5a84e5d), a variety of YouTube videos, courses, blog posts and research papers. I will update all the links I refer, shortly. 
+This repos is a documentation of my journey of learning about Machine Learning. Currently, my learnings are based on the course offered by my Uni, [IT340 Machine Learning](https://www.notion.so/ankitapriya/Course-Syllabus-208a3ef25acc486184ad6deff5a84e5d), a variety of YouTube videos, other online courses, blog posts and research papers. I will update all the links I refer, shortly. 
 
 ## Coding Language, IDE and Libraries used 
 
